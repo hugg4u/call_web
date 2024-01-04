@@ -38,6 +38,7 @@ dependencies:
   flutter_inappwebview:
   permission_handler: ^11.1.0
   image_picker: ^1.0.6
+  flutter_callkit_incoming: ^2.0.0+2
 
 dev_dependencies:
   flutter_test:
